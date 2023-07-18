@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">M5_Individual14</string>
+    <string name="rbSaldo">Saldo</string>
+    <string name="rbIngresar">Ingresar</string>
+    <string name="rbRetirar">Retirar</string>
+    <string name="rbSalir">Salir</string>
+    <string name="tvxSaludo">Bienvenido a AwakeBanke</string>
+    <string name="etxMonto">Monto</string>
+    <string name="btn_ok">OK</string>
+</resources>
